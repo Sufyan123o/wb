@@ -1,0 +1,9 @@
+# Ignore every file and folder
+/*
+
+# Except wb.py and requirements.txt at the repository root
+!wb.py
+!requirements.txt
+!profiles.csv
+!reamdme.md
+!.gitignore
